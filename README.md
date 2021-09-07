@@ -19,5 +19,5 @@ And it will prompt the app on the console
 90% of the codes are the same as in the tutorial.
 
 #### References:
-thanks for the tutorial that I watch on the youtube, here is the link [https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM](The Net Ninja). Make sure to subscribe.
+thanks for the tutorial that I watch on the youtube, here is the link [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM). Make sure to subscribe.
 
